@@ -17,6 +17,10 @@ Tengo un bot privado funcionando para la comunidad de **SrDeku** con funcionalid
 - Algunos juegos básicos
 - Comandos de moderación
 - Y otras cositas que he ido aprendiendo...
+- si gustas puedes entrar al servidor donde esta ese bot y probarlo si gustas
+
+[![Unite a nuestro Discord](https://discord.com/api/guilds/1334359072191025164/widget.png?style=banner2)](https://discord.gg/srdeku)
+
 
 ### 🤖 **Nota Sobre el Desarrollo**
 Para ser completamente transparente: algunas partes de este código fueron desarrolladas con ayuda de IA. Como desarrollador principiante con tiempo limitado, he usado herramientas de IA para:
