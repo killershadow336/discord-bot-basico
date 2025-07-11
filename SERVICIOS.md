@@ -160,4 +160,6 @@ Si necesitas un bot básico o mediano:
 
 **¡Si necesitas ayuda básica, aquí estoy! 🎉**
 
+[![Mi perfil Discord](https://img.shields.io/badge/Discord-ohiostate-7289DA?logo=discord&logoColor=white)](https://discord.com/users/719712028054519818)
+
 *Desarrollador principiante - ohiostate* 
