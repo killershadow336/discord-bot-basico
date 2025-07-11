@@ -195,9 +195,9 @@ Si necesitas algo más complejo o personalizado, puedo ayudarte:
 - Y otras funcionalidades que vaya aprendiendo...
 
 ### 📞 **Contacto**
-- **Discord**: Envía una solicitud de amistad para consultas
+[![Discord Presence](https://lanyard.cnrad.dev/api/719712028054519818?hideProfile=false&hideStatus=false&bg=1a2238&borderRadius=20px&idleMessage=Durmiendo%20%F0%9F%98%B4&theme=dark&showDisplayName=true)](https://discord.com/users/719712028054519818)
 - **Disponibilidad**: Puedo ayudar con proyectos básicos
-- **Experiencia**: Estoy aprendiendo, pero puedo ayudar con lo que sé
+- **Experiencia**: Estoy aprendiendo 🫡, pero puedo ayudar con lo que sé 
 
 ---
 
