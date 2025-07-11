@@ -210,13 +210,6 @@ Si encuentras algún problema o tienes preguntas:
 3. Abre un issue en este repositorio
 4. **¡O contáctame por Discord si necesitas ayuda!**
 
-## 🙏 Agradecimientos
-
-- Construido con [Discord.js](https://discord.js.org/)
-- Aprendiendo de la comunidad de Discord.js
-- Gracias a todos los que comparten conocimiento
-- Agradecido por las herramientas de IA que me han ayudado a aprender
-
 ---
 
 **¡Espero que este template te ayude a empezar! 🎉**
